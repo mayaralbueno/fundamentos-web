@@ -2,6 +2,8 @@
 /*estilos da página index.html*/
 .center{
   text-align: center;
+  color: antiquewhite;
+  font-size: 24px;
 }
 .container{
   display: flex;
@@ -12,14 +14,15 @@
   display: inline;
   padding:10px ;
   text-decoration:none ;
+  color: bisque;
 }
 #menu li a {
   text-decoration:none;
-  color: black;
+  color: rgb(231, 231, 231);
   font-size:50px ;
 }
 #menu li a:hover{
-  color:#7d5fff;
+  color:#057956;
 }
 .p-30{
   padding:30px ;
@@ -35,4 +38,11 @@
  margin-left:50px ;
 }
 
+.mah {
+  color: antiquewhite;
+  text-align: center;
+  font-size: 60px;
+}
+
+ 
 /*estilos da página contato.html*/
